@@ -1,16 +1,13 @@
-# flutter_tab_bar
+# Project | X Twitter Clone
 
-A new Flutter project.
+In this project I created a “X/Twitter” clone Interface, He has a tabBar with 2 pages, in the first page I just pass a text animation and in the other page I throwback the list of user using a listViewBuild. I made too a bottomBarNavigation.
+If someone want to finish this project I will share the code!
+I still improve my english so maybe you find some mistake in this text!
 
-## Getting Started
+For you page.
 
-This project is a starting point for a Flutter application.
+![for you](https://github.com/jonathanGontijo/XTweetClone/assets/70207794/7d1ed56a-0c76-467a-913a-383bb43305b8)
 
-A few resources to get you started if this is your first Flutter project:
+Following page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![following](https://github.com/jonathanGontijo/XTweetClone/assets/70207794/e132f97f-656d-45b7-9324-a405d902c964)
